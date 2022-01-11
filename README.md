@@ -3,7 +3,7 @@ hexo-theme-yilia-valine
 
     此项目是根据hexo-theme-yilia主题做了一些优化和改动，写这个项目的初衷就是深入学习Hexo。使用yilia主题可以快速迁移到yilia-valine
 
-
+你可以点击 [我的博客](https://www.buxiaoxing.com/) 查看效果
 
 #### 项目支持
 
