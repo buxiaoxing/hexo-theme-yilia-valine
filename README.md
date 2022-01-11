@@ -39,6 +39,8 @@ hexo-theme-yilia-valine
 
 如果您对主题有一些定制化的需求，请参考wiki[《Yilia源码目录结构及构建须知》](https://github.com/litten/hexo-theme-yilia/wiki/Yilia%E6%BA%90%E7%A0%81%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%8F%8A%E6%9E%84%E5%BB%BA%E9%A1%BB%E7%9F%A5)
 
+**注** 推荐使用yarn安装依赖，`.yarnrc` 文件已经配置了 `node-sass` 的镜像地址
+
 ## 三、使用
 
 #### 安装
